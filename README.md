@@ -1,7 +1,7 @@
 M```md
 # Hi there 👋, I'm Shivansh Gupta
 
-🎓 First-Year Computer Science Engineering Student  
+🎓 Third-Year Computer Science Engineering Student  
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Large Language Models (LLMs)  
 💻 Building projects that combine software engineering with modern AI
 

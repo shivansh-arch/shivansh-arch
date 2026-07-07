@@ -1,135 +1,175 @@
-M```md
-# Hi there 👋, I'm Shivansh Gupta
 
-🎓 Third-Year Computer Science Engineering Student  
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Large Language Models (LLMs)  
-💻 Building projects that combine software engineering with modern AI
+<div align="center">
 
----
+# Hi 👋, I'm Shivansh Gupta
 
-## 🚀 About Me
+### Computer Science Engineering Student • AI/ML Enthusiast • Building LLMs from Scratch
 
-- 🌱 Currently learning **Deep Learning, Transformers, and LLMs**
-- 🧠 Interested in AI Systems, NLP, and Full-Stack Development
-- 📚 Solving DSA problems in Java
-- 🎯 Goal: Become an AI/ML Engineer and contribute to impactful open-source projects
+I'm passionate about understanding **how modern AI systems work under the hood** by implementing them from scratch rather than treating them as black boxes.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=shivansh-arch&style=for-the-badge)](https://github.com/shivansh-arch)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
+
+- 🤖 Exploring **Machine Learning, Deep Learning, NLP, and LLMs**
+- 🧠 Building transformer architectures from scratch using **PyTorch**
+- 💻 Interested in AI Systems, Full-Stack Development, and Software Engineering
+- 📚 Solving Data Structures & Algorithms in Java
+- 🌱 Always learning by building real-world projects
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
-- Python
-- Java
-- C++
-- JavaScript
-- SQL
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,sql" />
+</p>
 
 ### AI / Machine Learning
-- PyTorch
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
 - NumPy
 - Pandas
 - Scikit-learn
-- Transformers
+- Hugging Face Transformers
 - LoRA
 - Streamlit
 
 ### Web Development
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
 # ⭐ Featured Projects
 
-## 🧠 Mini LLM from Scratch
+## 🧠 Mini LLM From Scratch
 
-A GPT-style language model implemented using PyTorch.
+Implemented a GPT-style language model using PyTorch.
 
-### Features
+### Highlights
+
 - Character Tokenizer
-- Multi-Head Self-Attention
+- Multi-Head Self Attention
 - Rotary Positional Embeddings (RoPE)
 - RMSNorm
 - SwiGLU
 - Transformer Blocks
 - Text Generation
 
-🔗 Repository: https://github.com/shivansh-arch/minllm
+🔗 **Repository**
+https://github.com/shivansh-arch/minllm
 
 ---
 
-## 🔍 Transformer Internals Visualizer
+## 🔬 Transformer Internals Visualizer
 
-An interactive application to understand how Transformers work.
+Interactive visualization of how Transformers actually work.
 
-### Visualizations
+### Features
+
 - Tokenization
 - Word Embeddings
 - Positional Encoding
-- Attention Maps
+- Self Attention
+- Attention Heatmaps
 
-🔗 Repository: https://github.com/shivansh-arch/transformer-internals
+🔗 **Repository**
+https://github.com/shivansh-arch/transformer-internals
 
 ---
 
 ## 🎯 IntentClassifier-Pro
 
-Intent classification using parameter-efficient fine-tuning techniques.
+Intent classification using Parameter-Efficient Fine-Tuning.
 
 ### Features
+
 - LoRA Fine-tuning
 - Hugging Face Transformers
 - Custom Dataset Pipeline
+- Efficient Inference
 
-🔗 Repository: https://github.com/shivansh-arch/IntentClassifier-Pro
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivansh-arch&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-arch&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-arch&layout=compact&theme=tokyonight" />
-</p>
+🔗 **Repository**
+https://github.com/shivansh-arch/IntentClassifier-Pro
 
 ---
 
-## 📈 Current Focus
+## 💡 Other Projects
+
+- 🤖 AI Code Review Assistant
+- 🩺 Skin Disease Classification
+- 💾 Virtual Memory Simulator
+- 🌐 Hospital Management System
+
+---
+
+# 📚 Currently Learning
 
 - Large Language Models (LLMs)
 - Deep Learning
-- NLP
+- Reinforcement Learning
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
-- Java DSA
+- Vector Databases
+- System Design
 
 ---
 
-## 📫 Connect With Me
+# 🎯 2026 Goals
 
-- GitHub: https://github.com/shivansh-arch
-- LinkedIn: https://www.linkedin.com/in/shivansh-gupta12412482/
+- Build production-ready AI applications
+- Contribute to open source
+- Master Deep Learning & Transformers
+- Land an AI/ML Internship
+- Publish high-quality technical projects
 
 ---
 
-⭐ *"Learning by building real projects."*
+# 📈 GitHub Activity
+
+> *I prefer showcasing real projects over decorative statistics. Explore my repositories to see complete implementations, documentation, and experiments.*
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="https://github.com/shivansh-arch">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/shivansh-gupta12412482/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Learning by building. Growing by sharing."*
+
+</div>
 ```
